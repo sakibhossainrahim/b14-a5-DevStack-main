@@ -58,3 +58,4 @@ Example:
 ### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
 Ans: We pass data from a parent to a child using props. To send something back, the parent passes a function as a prop, and the child calls that function.# b14-a5-DevStack-main
+# b14-a5-DevStack-main
